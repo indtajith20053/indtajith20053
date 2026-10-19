@@ -9,10 +9,11 @@
 
 <!-- ===== 1. BANNER ===== -->
 
-<!-- Swap this for any wide image you like (upload it to the repo and use its path). -->
+<!-- This image must be uploaded to the SAME repo, in the same folder as this README,
+     with the exact filename "banner.jpeg". The path below is relative to the repo. -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=&fontSize=0" width="100%" />
+  <img src="banner.jpeg" alt="Banner" width="100%" />
 </div>
 
 <!-- ===== 2. INTRO ===== -->
