@@ -102,7 +102,7 @@ My goal is simple: ship useful software, keep learning why things work, and grow
 <!-- These cards are generated live from your public GitHub data. -->
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=indtajith20053&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </div>
 
@@ -118,16 +118,16 @@ My goal is simple: ship useful software, keep learning why things work, and grow
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=00FF41&center=true&vCenter=true&width=520&lines=Wake+up%2C+Jay...;Follow+the+white+rabbit.;Accessing+GitHub+mainframe..." />
 </div><br/><div align="center">
   <!-- Card 1: overall stats -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33&icon_color=00ff41&ring_color=00ff41" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=indtajith20053E&show_icons=true&hide_border=false&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33&icon_color=00ff41&ring_color=00ff41" />
   <!-- Card 2: streak -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=000000&border=00ff41&stroke=008f11&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=008f11" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=indtajith20053&background=000000&border=00ff41&stroke=008f11&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=008f11" />
 </div><br/><div align="center">
   <!-- Card 3: most-used languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indtajith20053&layout=compact&hide_border=false&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33" />
 </div>
 
 <h2 align="center">📟 ACTIVITY GRAPH</h2><div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=false&border_color=00ff41" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indtajith20053&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=false&border_color=00ff41" width="100%" />
 </div><!-- Footer wave, matches the banner --><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" />
 </div>
