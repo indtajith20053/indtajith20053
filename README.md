@@ -18,11 +18,11 @@
 
 <!-- ===== 2. INTRO ===== -->
 
-<h1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi 👋, I'm Jason</h1>
 
 <div align="center">
 
-### AI Automation & Chatbot Developer
+### AI/ML Engineer 
 
 <!-- Animated typing line: edit the text between "lines=" and "&center" (use + for spaces, ; to separate lines) -->
 
@@ -40,7 +40,7 @@ Building reliable AI systems that solve real business problems.
 <tr>
 <td width="60%">
 
-**Jay** here, a first-year BSc (Hons) Computing student at **Flinders University**, building a freelance career in AI automation.
+**Jason** here, building a freelance career in AI.
 
 I enjoy turning ideas into working products: chatbots, agent pipelines and automations that save people real time.
 
